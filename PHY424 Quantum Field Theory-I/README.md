@@ -6,5 +6,5 @@
 5. Walter Greiner, Quantum Electrodynamics - a good reference for propagators and Green's functions.
 6. Joachim Kopp , Quantum Field Theory, Lecture Notes [(link)](https://www.staff.uni-mainz.de/jkopp/qft2-2016-material/lecture-notes.pdf) - A comprehensive review of Peskin & Schroeder
 7. Hoofdstuk 2 Propagators, Scattering theory and n-point functions. [(link)](https://particle.univie.ac.at/fileadmin/user_upload/i_particle_physics/material/studies/2010_SS/RelQFT_VO_SS10_ch02.pdf)
-8. Hagen Kleinert, Particles and Quantum Fields (Freie Universit¨at Berlin) [Course Webpage](http://users.physik.fu-berlin.de/~kleinert/b6/psfiles/) <br>
+8. Hagen Kleinert, Particles and Quantum Fields (Freie Universit¨at Berlin) [(Course Webpage)](http://users.physik.fu-berlin.de/~kleinert/b6/psfiles/) <br>
 The section on [Continuous Symmetries and Conservation Laws - Noether’s Theorem](http://www.physik.fu-berlin.de/~kleinert/b6/psfiles/Chapter-7-conslaw.pdf) is extremely helpful for Classical Field Theory.
