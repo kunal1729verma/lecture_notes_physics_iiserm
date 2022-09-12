@@ -4,4 +4,4 @@ This repository hosts lecture notes and revision sheets (and some other helpful 
 **Some general resources**
 * Green's functions and method of images [(https://arxiv.org/abs/2006.09999)](https://arxiv.org/abs/2006.09999)
 * Andrew Lucas' Old Problem Collection [(Webpage)](https://www.alucasphys.com/problems.html)
-* gradschoolproblemscollection [(link)](https://github.com/kunal1729verma/lecture_notes_physics_iiserm/gradschoolproblemcollection.zip) (I don't remember where I found this document. Please let me know if you happen to know the original source/author)
+* gradschoolproblemscollection [(link)](https://github.com/kunal1729verma/lecture_notes_physics_iiserm/blob/main/_Miscellaneous%20Resources/gradschoolproblemcollection.zip?raw=true) (unfortunately, can't find the original author)
